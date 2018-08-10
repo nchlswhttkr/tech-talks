@@ -30,9 +30,9 @@ As a practical demonstration, we will also be making a small open source contrib
 
 [Atlassian Git Cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
-[Atlassian Git Tutorial]()
+[Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
 
-[Git Documentation](https://git-scm.org)
+[Git Documentation](https://git-scm.com/doc)
 
 ### I made a mistake!
 
