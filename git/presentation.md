@@ -1,9 +1,29 @@
-footer: **GIT AND OSS** | [github.com/nchlswhttkr/tech-talks](github.com/nchlswhttkr/tech-talks) 2018
+footer: [github.com/nchlswhttkr/tech-talks/git](github.com/nchlswhttkr/tech-talks) | 2018
 slidenumbers: true
 
-# Git and Open Source
+# [fit] Git and Open Source
 
 ## The fundamentals of version control
+
+---
+
+# About Me
+
+Bachelor of Computer Science - _2<sup>nd</sup> Year_
+
+<br/>
+
+Frontend / UX at MonPlan
+
+_Monash University - eSolutions_
+
+<br/>
+
+:musical_note: :trumpet: :musical_note: Musician
+
+:bowling: :trophy: :bowling: Lawn Bowler
+
+![right](assets/nicholas.jpg)
 
 ---
 
@@ -19,13 +39,13 @@ Where do you store your code?
 
 # Have you ever had folders like this?
 
-### `Assignment 1 FINAL`
+`Assignment 1 FINAL`
 
-### `Copy of Assignment 1 final`
+`Copy of Assignment 1 final`
 
-### `A1 THIS ONE`
+`A2.1 (THIS ONE)`
 
-### `THESIS FINAL (2) COMPLETE`
+`THESIS FINAL (2) COMPLETE`
 
 ---
 
@@ -51,13 +71,21 @@ timeline for code
 
 # Code to **Humans**
 
-![inline](assets/how-humans-see-code.png)
+![inline](assets/code-to-humans.png)
+
+^ we only see the **present** snapshot
 
 ---
 
 # Code to **Git**
 
-![inline](assets/how-git-sees-code.png)
+![inline](assets/code-to-git.png)
+
+^ modified/added lines since **last** snapshot
+
+---
+
+# Terminology
 
 ---
 
@@ -65,15 +93,13 @@ timeline for code
 
 ## Write + Save Code
 
-## **staging**
+### **staging**
 
-^
-updated/completed files are staged
+^ updated/completed files are staged
 
-## **commits**
+### **commits**
 
-^
-collections of staged files are committed
+^ collections of staged files are committed
 
 ---
 
@@ -81,12 +107,11 @@ collections of staged files are committed
 
 ## Repositories
 
-## **local**
+### **local**
 
-## **origin** / **upstream**
+### **origin** / **upstream**
 
-^
-usually an external store
+^ usually an external store
 
 ---
 
@@ -94,9 +119,11 @@ usually an external store
 
 ## Send/Receive Updates
 
-## **pushing**
+### **pushing**
 
-## **pulling** (**fetch** and **merge**)
+### **pulling** (**fetch** and **merge**)
+
+### **cloning**
 
 ^
 pulls consist of two main steps
@@ -109,17 +136,23 @@ pulls consist of two main steps
 
 ## Making Changes
 
-## **branches**
+### **branches**
 
-## **forks**
-
----
-
-# (Demo Time!)
+### **forks**
 
 ---
 
-# GitHub
+# Demo Time!
+
+---
+
+# Git Service Providers
+
+## The Big 3
+
+---
+
+![inline](assets/github.jpg)
 
 ^
 social coding
@@ -127,7 +160,7 @@ largest community
 
 ---
 
-# GitLab
+![inline](assets/gitlab.png)
 
 ^
 open core
@@ -135,7 +168,7 @@ build pipeline support
 
 ---
 
-# Bitbucket
+![inline](assets/bitbucket.png)
 
 ^
 atlassian suite integration
@@ -143,18 +176,30 @@ build pipeline support
 
 ---
 
-# While you wait...
+# Useful Resources
 
-### `git push --force`
+### GitHub/GitLab Student Pack
 
-### Merge Conflicts
+### Git Flight Rules + `ohshitgit.com`
 
----
+### Atlassian Git Cheatsheet + Tutorial
 
-# GitHub Student Pack
-
-# GitLab Education Pack
+### Sourcetree / GitKraken
 
 ---
 
 # Happy Coding!
+
+## _Questions?_
+
+#### _Get some stickers..._
+
+---
+
+![inline](assets/open-source.png)
+
+---
+
+## Connect with me!
+
+# **@nchlswhttkr**
