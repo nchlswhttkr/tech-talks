@@ -4,6 +4,8 @@ The first step for any good developer is setting up an environment to write and 
 
 As a practical demonstration, we will also be making a small open source contribution!
 
+![](./git-and-open-source.png)
+
 ---
 
 ## Recommended Resources / Links

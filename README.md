@@ -20,4 +20,6 @@ Code used in talks is usually hosted on a separate repo or gist, and linked usin
 
 ### [Git and Open Source](./git)
 
+[![](./git/git-and-open-source.png)](./git)
+
 The first step for any good developer is setting up source control for the code they write. We'll be covering the basics of Git (a version control system designed for versioning code), some of the available service providers, and how you can use this to build a foundation for good coding habits.
