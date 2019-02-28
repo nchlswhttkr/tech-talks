@@ -1,3 +1,4 @@
+theme: Plain Jane, 1
 footer: [github.com/nchlswhttkr/tech-talks/git](github.com/nchlswhttkr/tech-talks) | 2018
 slidenumbers: true
 
