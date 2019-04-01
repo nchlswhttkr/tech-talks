@@ -20,9 +20,11 @@ As a practical demonstration, we will also be making a small open source contrib
 
 ### Git Clients
 
-[Sourcetree](https://www.sourcetreeapp.com/)
+~[Sourcetree](https://www.sourcetreeapp.com/)~ (Requires a Bitbucket account, even if your repositories are hosted elsewhere)
 
 [GitKraken](https://www.gitkraken.com/)
+
+[Git GUI Clients (git-scm.com)](https://git-scm.com/downloads/guis)
 
 ### Useful Resources
 
