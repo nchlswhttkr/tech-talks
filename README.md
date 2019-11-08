@@ -27,9 +27,11 @@ Presented as part of a series of tech talks with [WIRED Monash](https://wired.or
 
 > The first step for any good developer is setting up source control for the code they write. We'll be covering the basics of Git (a version control system designed for versioning code), some of the available service providers, and how you can use this to build a foundation for good coding habits.
 
+---
+
 ### [Hacktoberfest 2019](https://github.com/nchlswhttkr/hacktoberfest-2019)
 
-[![The Hacktoberfest logo for 2019](https://raw.githubusercontent.com/nchlswhttkr/hacktoberfest-2019/master/static/banner.png)](https://raw.githubusercontent.com/nchlswhttkr/hacktoberfest-2019)
+[![The Hacktoberfest logo for 2019](https://raw.githubusercontent.com/nchlswhttkr/hacktoberfest-2019/master/static/cover.png)](https://github.com/nchlswhttkr/hacktoberfest-2019)
 
 Hacktoberfest 2019 at Monash University, a workshop in parternship between [MonSec](https://monsec.io) and [WIRED](https://wired.org.au).
 
