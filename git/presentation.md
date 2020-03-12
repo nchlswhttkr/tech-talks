@@ -1,5 +1,5 @@
 theme: Plain Jane, 1
-footer: [github.com/nchlswhttkr/tech-talks/git](github.com/nchlswhttkr/tech-talks) | 2018
+footer: _"Git and Open Source"_ - nicholas.cloud/goto/git-2018
 slidenumbers: true
 
 # [fit] Git and Open Source
